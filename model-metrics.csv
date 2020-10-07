@@ -1,0 +1,5 @@
+Model,MSE Train,MSE Test,R2
+Linear regression,27115.69,27140.58,0.5637
+Lasso,27146.2822,27257.7288,0.5618
+Random Forest,1408.84,9844.9473,0.8439
+Extra Trees,0.5682,9507.7716,0.8472
